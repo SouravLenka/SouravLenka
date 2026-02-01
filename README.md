@@ -13,22 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Sourav Lenka 👋
+# Hi, I’m Sourav👋
 
-I’m a developer focused on DevOps, cloud technologies, and automation.  
-I work with Python, Linux, and cloud tools to build practical and scalable solutions, and I actively explore AI-driven systems.
+I build and experiment with systems focused on DevOps and automation.  
+Most of my work revolves around Python and Linux—writing scripts, improving workflows, and turning ideas into projects. I also enjoy exploring how AI can be used in practical tools.
 
-## 🚀 What I’m Currently Working On
-- Strengthening DevOps practices and AWS cloud skills
-- Building automation and Python-based tools
-- Exploring AI applications such as RAG systems and intelligent assistants
+## 🚀 What I’m Working On
+- Improving my understanding of DevOps and system design
+- Building automation tools and utilities with Python
+- Experimenting with AI projects, including RAG-based assistants
 
 ## 🛠 Tools & Technologies
-- Programming: Python, JavaScript, PHP
-- DevOps & Cloud: AWS, Linux, Git, GitHub
-- Web: HTML, CSS, React
-- Databases: MySQL, NoSQL (Basics)
-- Tools & Platforms: VS Code, XAMPP, Firebase, Figma
+- Python, JavaScript, PHP  
+- Linux, Git, GitHub, CI/CD fundamentals  
+- HTML, CSS, React  
+- MySQL and basic NoSQL  
+- VS Code, XAMPP, Firebase, Figma  
 
 ## 🌐 Website
 - https://soradev.vercel.app/
