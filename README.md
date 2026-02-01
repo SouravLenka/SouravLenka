@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Sourav 👋
+# Hi, I'm Sourav Lenka 👋
 
 I’m a developer focused on DevOps, cloud technologies, and automation.  
 I work with Python, Linux, and cloud tools to build practical and scalable solutions, and I actively explore AI-driven systems.
