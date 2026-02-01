@@ -30,3 +30,5 @@ I work with Python, Linux, and cloud tools to build practical and scalable solut
 - Databases: MySQL, NoSQL (Basics)
 - Tools & Platforms: VS Code, XAMPP, Firebase, Figma
 
+## 🌐 Website
+- https://soradev.vercel.app/
