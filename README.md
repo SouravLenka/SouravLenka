@@ -16,21 +16,17 @@ Here are some ideas to get you started:
 # Hi, I'm Sourav 👋
 
 I’m a developer focused on DevOps, cloud technologies, and automation.  
-I enjoy building practical, scalable systems and learning modern engineering practices.
+I work with Python, Linux, and cloud tools to build practical and scalable solutions, and I actively explore AI-driven systems.
 
 ## 🚀 What I’m Currently Working On
-- Improving my DevOps and cloud skills (AWS, Linux, automation)
-- Building Python-based tools and AI-powered projects
-- Creating clean, scalable web applications
+- Strengthening DevOps practices and AWS cloud skills
+- Building automation and Python-based tools
+- Exploring AI applications such as RAG systems and intelligent assistants
 
 ## 🛠 Tools & Technologies
-- Languages: Python, JavaScript, PHP
+- Programming: Python, JavaScript, PHP
+- DevOps & Cloud: AWS, Linux, Git, GitHub
 - Web: HTML, CSS, React
-- Cloud & DevOps: AWS (Basics), Linux, Git, GitHub
-- Databases: MySQL
-- Tools: VS Code, XAMPP
+- Databases: MySQL, NoSQL (Basics)
+- Tools & Platforms: VS Code, XAMPP, Firebase, Figma
 
-## 📫 How to Reach Me
-- GitHub: https://github.com/your-username
-- Email: your-email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
