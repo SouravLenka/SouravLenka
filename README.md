@@ -26,9 +26,10 @@ Most of my work revolves around Python and Linux—writing scripts, improving wo
 ## 🛠 Tools & Technologies
 - Python, JavaScript, PHP  
 - Linux, Git, GitHub, CI/CD fundamentals  
-- HTML, CSS, React  
+- HTML, CSS, React 
 - MySQL and basic NoSQL  
-- VS Code, XAMPP, Firebase, Figma  
+- VS Code, XAMPP, Firebase, Figma
+- n8n, RAG, LLM, API's, 
 
 ## 🌐 Website
 - https://soradev.vercel.app/
