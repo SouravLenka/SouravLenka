@@ -33,9 +33,10 @@ Most of my work involves Python and Linux—writing scripts, improving workflows
 
 <p align="left">
   <a href="https://soradev.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/40/domain.png" />
+    🌐 Portfolio
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/souravlenka" target="_blank">
-    <img src="https://img.icons8.com/color/40/linkedin.png" />
+    💼 LinkedIn
   </a>
 </p>
