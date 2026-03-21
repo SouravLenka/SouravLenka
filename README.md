@@ -3,8 +3,10 @@
 I build and work on systems focused on DevOps and automation.  
 Most of my work involves Python and Linux—writing scripts, improving workflows, and turning ideas into practical projects. I also explore how AI can be applied to real-world use cases.
 
-## 📊 GitHub Stats
-![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouravLenka&show_icons=true&theme=github_dark)
+## 📊 GitHub Activity
+![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouravLenka&show_icons=true&theme=github_dark&hide_rank=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SouravLenka&theme=github-dark)
 
 ## 🚀 What I’m Working On
 - Improving my understanding of DevOps and system design
