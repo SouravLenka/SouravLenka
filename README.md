@@ -21,9 +21,7 @@ Most of my work involves Python and Linux—writing scripts, improving workflows
 - AI & Automation: RAG, LLMs, APIs, n8n  
 - Tools: VS Code, XAMPP, Firebase, Figma  
 
-## 🌐 Website
-- https://soradev.vercel.app/
+## 🌐 Connect
 
-## 📫 Connect
-- GitHub: https://github.com/SouravLenka  
-- LinkedIn: https://linkedin.com/in/souravlenka  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://soradev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souravlenka)
