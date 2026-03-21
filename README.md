@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I’m Sourav👋
+# Hi, I’m Sourav
 
 I build and experiment with systems focused on DevOps and automation.  
 Most of my work revolves around Python and Linux—writing scripts, improving workflows, and turning ideas into projects. I also enjoy exploring how AI can be used in practical tools.
 
-## 🚀 What I’m Working On
+## What I’m Working On
 - Improving my understanding of DevOps and system design
 - Building automation tools and utilities with Python
 - Experimenting with AI projects, including RAG-based assistants
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python, JavaScript, PHP  
 - Linux, Git, GitHub, CI/CD fundamentals  
 - HTML, CSS, React 
@@ -31,5 +31,5 @@ Most of my work revolves around Python and Linux—writing scripts, improving wo
 - VS Code, XAMPP, Firebase, Figma
 - n8n, RAG, LLM, API's, 
 
-## 🌐 Website
+## Website
 - https://soradev.vercel.app/
