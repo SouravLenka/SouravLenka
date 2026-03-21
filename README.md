@@ -1,23 +1,23 @@
-# Hi, I’m Sourav 👋
+# Hi, I’m Sourav 
 
 I build systems focused on DevOps, automation, and practical problem-solving.  
 Most of my work involves Python and Linux—writing scripts, improving workflows, and turning ideas into scalable solutions. I also explore how AI can be applied to real-world use cases.
 
 ---
 
-## 📊 Activity
+## Activity
 ![GitHub Streak](https://streak-stats.demolab.com?user=SouravLenka&theme=github-dark&hide_border=true)
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 - Strengthening DevOps and system design fundamentals  
 - Building automation tools with Python  
 - Exploring AI systems, including RAG-based applications  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -53,7 +53,7 @@ Most of my work involves Python and Linux—writing scripts, improving workflows
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <p align="left">
   <a href="https://soradev.vercel.app/" target="_blank">
