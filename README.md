@@ -13,11 +13,12 @@ Most of my work involves Python and Linux—writing scripts, improving workflows
 ---
 
 ## What I’m Working On
-- Improving my understanding of DevOps and system design  
+- Strengthening DevOps and system design fundamentals  
 - Building automation tools and utilities with Python  
-- Experimenting with AI systems, including RAG-based assistants  
+- Exploring AI systems, including RAG-based applications  
 
 ---
+
 ## Tools & Technologies
 - Languages: Python, JavaScript, PHP  
 - Systems & DevOps: Linux, Bash, Git, GitHub, CI/CD fundamentals  
@@ -25,6 +26,7 @@ Most of my work involves Python and Linux—writing scripts, improving workflows
 - Databases: MySQL, basic NoSQL  
 - AI & Automation: RAG pipelines, LLM integration, APIs, n8n workflows  
 - Tools: VS Code, XAMPP, Firebase, Figma  
+
 ---
 
 ## Connect
