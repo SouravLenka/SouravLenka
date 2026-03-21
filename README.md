@@ -1,4 +1,5 @@
 # Hi, I’m Sourav
+*DevOps • Automation • AI Systems*
 
 I build systems focused on DevOps, automation, and practical problem-solving.  
 Most of my work involves Python and Linux—writing scripts, improving workflows, and turning ideas into scalable solutions. I also explore how AI can be applied to real-world use cases.
