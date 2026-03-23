@@ -9,13 +9,13 @@ Most of my work involves Python and Linux—writing scripts, improving workflows
 ## Activity
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=SouravLenka&theme=github-dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=SouravLenka&theme=github-dark&hide_border=true" />
 </p>
 
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravLenka&layout=compact&theme=github_dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravLenka&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
