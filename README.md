@@ -9,13 +9,13 @@ Most of my work involves Python and Linux—writing scripts, improving workflows
 ## Activity
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=SouravLenka&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SouravLenka&theme=github-dark-blue&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=FFFFFF&dates=39FF14" alt="GitHub Contribution Stats"/>
 </p>
 
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravLenka&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravLenka&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -24,26 +24,28 @@ Most of my work involves Python and Linux—writing scripts, improving workflows
 - Strengthening DevOps and system design fundamentals  
 - Building automation tools and utilities with Python  
 - Exploring AI systems, including RAG-based applications  
+- Expanding practical experience in AI-driven platforms, workflow automation, and scalable development systems  
 
 ---
 
 ## Tech Stack
 - **Languages:** Python, JavaScript, PHP  
 - **Systems & DevOps:** Linux, Bash, Git, GitHub, CI/CD fundamentals  
-- **Web:** HTML, CSS, React  
-- **Databases:** MySQL, basic NoSQL  
-- **AI & Automation:** RAG pipelines, LLM integration, APIs, n8n workflows  
-- **Tools:** VS Code, XAMPP, Firebase, Figma  
+- **Web:** HTML, CSS, React, Tailwind CSS  
+- **Databases:** MySQL, basic NoSQL, ChromaDB  
+- **AI & Automation:** RAG pipelines, LLM integration, APIs, n8n workflows, LangChain  
+- **Tools:** VS Code, XAMPP, Firebase, Figma, Streamlit  
+
 ---
 
 ## Connect
 
 <p align="left">
   <a href="https://soradev.vercel.app/" target="_blank">
-    🌐 Portfolio
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://linkedin.com/in/souravlenka" target="_blank">
-    💼 LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
