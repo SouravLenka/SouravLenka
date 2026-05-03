@@ -34,7 +34,6 @@ Most of my work involves Python and Linux—writing scripts, improving workflows
 - **Databases:** MySQL, basic NoSQL  
 - **AI & Automation:** RAG pipelines, LLM integration, APIs, n8n workflows  
 - **Tools:** VS Code, XAMPP, Firebase, Figma  
-
 ---
 
 ## Connect
