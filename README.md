@@ -12,12 +12,6 @@ Most of my work involves Python and Linux—writing scripts, improving workflows
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SouravLenka&theme=github-dark-blue&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=58A6FF&dates=39FF14" alt="GitHub Contribution Stats"/>
 </p>
 
-<br/>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravLenka&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages"/>
-</p>
-
 ---
 
 ## Current Focus
