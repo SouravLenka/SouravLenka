@@ -38,8 +38,4 @@ Most of my work involves Python and Linux—writing scripts, improving workflows
   <a href="https://soradev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/souravlenka" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </p>
