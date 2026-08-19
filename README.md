@@ -2,9 +2,13 @@
 
 # Sourav Lenka
 
-### AI & Automation Engineer in the Making
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Automation+Engineer+in+the+Making;Building+AI+Systems+%7C+Automating+Workflows;Python+%7C+RAG+%7C+APIs+%7C+DevOps;Always+Learning.+Always+Building." alt="Typing SVG" />
+</a>
 
-I build practical AI systems, automate repetitive workflows, and turn ideas into reliable software.
+<p>
+  I build practical AI systems, automate repetitive workflows, and turn ideas into reliable software.
+</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-soradev.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://soradev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourav%20Lenka-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sourav-lenka-a82882295/)
