@@ -3,7 +3,7 @@
 # Sourav Lenka
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Automation+Engineer+in+the+Making;Building+AI+Systems+%7C+Automating+Workflows;Python+%7C+RAG+%7C+APIs+%7C+DevOps;Always+Learning.+Always+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+and+Automation+Engineer+in+the+Making;Building+AI+Systems+and+Automating+Workflows;Python+%7C+RAG+%7C+APIs+%7C+DevOps;Always+Learning.+Always+Building." alt="Typing SVG" />
 </a>
 
 <p>
@@ -11,8 +11,7 @@
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-soradev.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://soradev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourav%20Lenka-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sourav-lenka-a82882295/)
-[![Email](https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:lenkasourav09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourav%20Lenka-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/souravlenkaaa)
 
 </div>
 
