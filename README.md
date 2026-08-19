@@ -17,95 +17,38 @@
 ---
 
 > **The idea is simple:** if a task repeats, it deserves a better system.
->
-> I’m a final-year Computer Science student building at the intersection of **AI and automation**—from voice assistants and workflow automations to RAG systems, document intelligence, and decision-support platforms.
 
-## ◈ What I’m building toward
+I’m a final-year Computer Science student focused on **AI and automation engineering**. I design systems that connect AI to useful workflows—so they do more than respond to prompts: they retrieve context, make repeatable processes easier, and help move work forward.
 
-<pre>manual work  ──►  automated workflow  ──►  AI-assisted decision  ──►  useful outcome</pre>
+## ◈ How I think about systems
 
-I’m not interested in AI for the demo alone. I want to build systems that plug into real work, retrieve trusted context, make the right next step easier, and leave people with less busywork.
+<pre>understand the work  ──►  automate what repeats  ──►  add AI where judgment helps</pre>
 
-## ◈ Featured systems
+The interesting part of AI is not the model by itself. It is the system around it: the workflow, data, integrations, reliability, and the actual person who has to use it.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## ◈ What I build
 
-### [Jarvis ↗](https://github.com/SouravLenka/jarivs)
-**Your desktop, but with an operator.**
-
-A voice-driven desktop assistant that listens, calls APIs, and executes tasks—built around the goal of removing small daily friction.
-
-<code>Python</code> <code>Voice Commands</code> <code>APIs</code> <code>Automation</code>
-
-</td>
-<td width="50%" valign="top">
-
-### [MindForge ↗](https://github.com/SouravLenka/MindForge)
-**Answers from the docs, not guesses.**
-
-A RAG assistant designed to retrieve relevant knowledge from documents, so finding an answer does not mean digging through files.
-
-<code>Python</code> <code>RAG</code> <code>Vector Search</code>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [EcoAssist ↗](https://github.com/SouravLenka/ecoassist)
-**Sustainability knowledge, made usable.**
-
-A responsible-AI RAG assistant that grounds answers in sustainability policies and gives users the source context.
-
-<code>Streamlit</code> <code>FAISS</code> <code>FLAN-T5</code> <code>LangChain</code>
-
-</td>
-<td width="50%" valign="top">
-
-### [AI Resume Parser ↗](https://github.com/SouravLenka/ai-resume-parser)
-**Scanned resumes → structured data.**
-
-A vision-language OCR pipeline that reads resume images and converts them into ATS-ready JSON.
-
-<code>olmOCR-2</code> <code>PyTorch</code> <code>NLP</code>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [CREDASYS ↗](https://github.com/SouravLenka/CREDASYS)
-**Credit decisions with an evidence trail.**
-
-An end-to-end corporate credit-risk platform: document ingestion, research, explainable Five-Cs scoring, and CAM report generation.
-
-<code>FastAPI</code> <code>Next.js</code> <code>ChromaDB</code> <code>Groq</code>
-
-</td>
-<td width="50%" valign="top">
-
-### [AI StoryTeller ↗](https://github.com/SouravLenka/AI_StoryTeller)
-**Images in. Narratives out.**
-
-A multimodal storytelling experience that pairs BLIP image understanding with Gemini-powered creative control.
-
-<code>FastAPI</code> <code>BLIP</code> <code>Gemini</code>
-
-</td>
-</tr>
-</table>
-
-[InteliCredit ↗](https://github.com/SouravLenka/InteliCredit) · [See all projects ↗](https://github.com/SouravLenka)
-
-## ◈ Field notes
-
-| Where | What it taught me |
+| Area | What I focus on |
 | :-- | :-- |
-| **NSPCL, Rourkela** | Working with the DDCMIS fire-safety monitoring system showed me automation in an industrial setting—not just on a laptop. |
-| **IBM AI for Sustainability** | Built EcoAssist and learned that responsible AI is about grounded, useful answers. |
-| **National hackathon · IIT Hyderabad × Vivriti Capital** | Built an AI-powered credit-risk tool around a real business challenge. |
+| **Workflow automation** | Connecting APIs, triggers, tools, and repeatable processes so manual tasks become reliable flows. |
+| **Applied AI systems** | RAG-based assistants, document intelligence, multimodal AI, and decision-support tools grounded in useful context. |
+| **AI integration** | Taking AI beyond chat interfaces by connecting it to the systems and actions that make it valuable. |
+| **Engineering foundations** | Building with clean APIs, version control, Linux, system design, and a growing DevOps mindset. |
+
+## ◈ What I bring
+
+- A practical view of AI: it should save time, improve decisions, or remove friction.
+- Experience building across the stack—from Python and FastAPI to Next.js interfaces and AI pipelines.
+- An automation-first instinct: understand the process before adding complexity.
+- Curiosity about how systems operate in real environments, not just in demos.
+
+## ◈ Experience in practice
+
+| Environment | Focus |
+| :-- | :-- |
+| **NSPCL, Rourkela** | Worked with the DDCMIS fire-safety monitoring system and saw automation operate in an industrial environment. |
+| **IBM AI for Sustainability Virtual Internship** | Built a responsible-AI assistant that made sustainability information more accessible and actionable. |
+| **National hackathon with IIT Hyderabad & Vivriti Capital** | Built an AI-powered credit-risk solution around a real business challenge. |
 
 ## ◈ The toolbox
 
@@ -122,8 +65,10 @@ A multimodal storytelling experience that pairs BLIP image understanding with Ge
 ## ◈ Now
 
 <code>[ learning ]</code> automation engineering · APIs · DevOps · system design  
-<code>[ building ]</code> AI that connects to real workflows  
+<code>[ building ]</code> AI systems that connect to real workflows  
 <code>[ looking for ]</code> opportunities in **AI & Automation Engineering**
+
+---
 
 **If it is repetitive, there is probably a system waiting to be built.**
 
