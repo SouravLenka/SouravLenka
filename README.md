@@ -2,84 +2,147 @@
 
 <div align="center">
 
-# Hi, I'm Sourav Lenka 👋
+# Sourav Lenka
 
-### Final-year Computer Science student · AI & Automation Engineer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=I+turn+repetitive+work+into+reliable+systems.;AI+%2B+Automation+Engineer+in+the+making.;Build+the+workflow.+Then+make+it+smarter." alt="AI and Automation Engineer" />
 
-I build AI systems that do more than answer questions—they fit into real workflows and take repetitive work off people’s plates.
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-soradev.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://soradev.vercel.app/)
-[![GitHub followers](https://img.shields.io/github/followers/SouravLenka?style=for-the-badge&label=Follow&color=2563EB)](https://github.com/SouravLenka)
-
-</div>
-
----
-
-## Why AI + automation?
-
-I don’t like doing the same thing twice. That instinct led me to automation first—building n8n workflows and a desktop voice assistant—and then to applied AI. Today, I combine both to create useful systems: AI that can retrieve grounded answers, understand documents, make decisions, and move work forward.
-
-```text
-Discover the task  →  automate the repeatable parts  →  add AI where judgment helps
-```
-
-## Selected work
-
-| Project | What I built | Stack |
-| :-- | :-- | :-- |
-| [**Jarvis**](https://github.com/SouravLenka/jarivs) | A desktop AI assistant that handles voice commands, calls APIs, and executes tasks. | Python · APIs · Automation |
-| [**MindForge**](https://github.com/SouravLenka/MindForge) | A RAG assistant that retrieves answers from documents instead of making users search through them. | Python · RAG · Vector Search |
-| [**EcoAssist**](https://github.com/SouravLenka/ecoassist) | A sustainability-focused RAG assistant built during an IBM AI for Sustainability virtual internship. | Streamlit · FAISS · FLAN-T5 · LangChain |
-| [**AI Resume Parser**](https://github.com/SouravLenka/ai-resume-parser) | A vision-language OCR pipeline that turns scanned resumes into structured, ATS-ready JSON. | olmOCR-2 · PyTorch · NLP |
-| [**AI StoryTeller**](https://github.com/SouravLenka/AI_StoryTeller) | An image-to-story app that combines BLIP captioning with Gemini-controlled storytelling. | FastAPI · BLIP · Gemini |
-| [**CREDASYS**](https://github.com/SouravLenka/CREDASYS) | An AI-powered corporate credit-risk platform with document ingestion, research, explainable Five-Cs scoring, and CAM reports. | Next.js · FastAPI · ChromaDB · Groq |
-| [**InteliCredit**](https://github.com/SouravLenka/InteliCredit) | An enterprise-oriented credit appraisal platform for Indian corporate lending, with explainable AI, document analysis, and risk intelligence. | FastAPI · Next.js · Gemini · Scikit-learn |
-
-## Experience that shaped my approach
-
-- **NSPCL, Rourkela** — Worked with the DDCMIS fire-safety monitoring system, seeing how automation operates in an industrial environment.
-- **IBM AI for Sustainability Virtual Internship** — Built EcoAssist, a responsible-AI assistant for making sustainability policies more accessible and actionable.
-- **National hackathon with IIT Hyderabad & Vivriti Capital** — Built an AI-powered credit-risk tool for a real business problem.
-
-## Toolkit
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-059669?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-1F2937?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-1F2937?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
-</div>
-
-## Currently focused on
-
-- Building AI systems that connect to real business workflows
-- Deepening my skills in automation engineering, APIs, DevOps, and system design
-- Looking for opportunities in **AI & Automation Engineering**
-
-## GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SouravLenka&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=94A3B8&icon_color=2563EB&title_color=F8FAFC" alt="Sourav's GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=SouravLenka&theme=transparent&hide_border=true&ring=2563EB&fire=60A5FA&currStreakLabel=F8FAFC&sideLabels=94A3B8&dates=64748B" alt="Sourav's contribution streak" />
+[![Portfolio](https://img.shields.io/badge/portfolio-soradev.vercel.app-0F172A?style=flat-square&logo=vercel&logoColor=white)](https://soradev.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-@SouravLenka-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/SouravLenka)
+![Focus](https://img.shields.io/badge/focus-AI_%2B_Automation-0EA5E9?style=flat-square)
 
 </div>
 
 ---
 
+> **The idea is simple:** if a task repeats, it deserves a better system.
+>
+> I’m a final-year Computer Science student building at the intersection of **AI and automation**—from voice assistants and workflow automations to RAG systems, document intelligence, and decision-support platforms.
+
+## ◈ What I’m building toward
+
+<pre>manual work  ──►  automated workflow  ──►  AI-assisted decision  ──►  useful outcome</pre>
+
+I’m not interested in AI for the demo alone. I want to build systems that plug into real work, retrieve trusted context, make the right next step easier, and leave people with less busywork.
+
+## ◈ Featured systems
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Jarvis ↗](https://github.com/SouravLenka/jarivs)
+**Your desktop, but with an operator.**
+
+A voice-driven desktop assistant that listens, calls APIs, and executes tasks—built around the goal of removing small daily friction.
+
+<code>Python</code> <code>Voice Commands</code> <code>APIs</code> <code>Automation</code>
+
+</td>
+<td width="50%" valign="top">
+
+### [MindForge ↗](https://github.com/SouravLenka/MindForge)
+**Answers from the docs, not guesses.**
+
+A RAG assistant designed to retrieve relevant knowledge from documents, so finding an answer does not mean digging through files.
+
+<code>Python</code> <code>RAG</code> <code>Vector Search</code>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [EcoAssist ↗](https://github.com/SouravLenka/ecoassist)
+**Sustainability knowledge, made usable.**
+
+A responsible-AI RAG assistant that grounds answers in sustainability policies and gives users the source context.
+
+<code>Streamlit</code> <code>FAISS</code> <code>FLAN-T5</code> <code>LangChain</code>
+
+</td>
+<td width="50%" valign="top">
+
+### [AI Resume Parser ↗](https://github.com/SouravLenka/ai-resume-parser)
+**Scanned resumes → structured data.**
+
+A vision-language OCR pipeline that reads resume images and converts them into ATS-ready JSON.
+
+<code>olmOCR-2</code> <code>PyTorch</code> <code>NLP</code>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [CREDASYS ↗](https://github.com/SouravLenka/CREDASYS)
+**Credit decisions with an evidence trail.**
+
+An end-to-end corporate credit-risk platform: document ingestion, research, explainable Five-Cs scoring, and CAM report generation.
+
+<code>FastAPI</code> <code>Next.js</code> <code>ChromaDB</code> <code>Groq</code>
+
+</td>
+<td width="50%" valign="top">
+
+### [AI StoryTeller ↗](https://github.com/SouravLenka/AI_StoryTeller)
+**Images in. Narratives out.**
+
+A multimodal storytelling experience that pairs BLIP image understanding with Gemini-powered creative control.
+
+<code>FastAPI</code> <code>BLIP</code> <code>Gemini</code>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/SouravLenka/InteliCredit">InteliCredit</a> ·
+  <a href="https://github.com/SouravLenka">see all projects</a>
+</p>
+
+## ◈ Field notes
+
+| Where | What it taught me |
+| :-- | :-- |
+| **NSPCL, Rourkela** | Working with the DDCMIS fire-safety monitoring system showed me automation in an industrial setting—not just on a laptop. |
+| **IBM AI for Sustainability** | Built EcoAssist and learned that responsible AI is about grounded, useful answers. |
+| **National hackathon · IIT Hyderabad × Vivriti Capital** | Built an AI-powered credit-risk tool around a real business challenge. |
+
+## ◈ The toolbox
+
 <div align="center">
 
-### Open to building useful things together.
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=60A5FA)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=2DD4BF)
+![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0F172A?style=for-the-badge&logo=huggingface&logoColor=FACC15)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8)
+![n8n](https://img.shields.io/badge/n8n-0F172A?style=for-the-badge&logo=n8n&logoColor=F97316)
+![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FACC15)
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F97316)
 
-[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://soradev.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-SouravLenka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SouravLenka)
+</div>
+
+## ◈ Now
+
+<code>[ learning ]</code> automation engineering · APIs · DevOps · system design  
+<code>[ building ]</code> AI that connects to real workflows  
+<code>[ looking for ]</code> opportunities in **AI & Automation Engineering**
+
+<div align="center">
+
+<br />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SouravLenka&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=94A3B8&icon_color=38BDF8&title_color=F8FAFC" alt="Sourav's GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=SouravLenka&theme=transparent&hide_border=true&ring=38BDF8&fire=60A5FA&currStreakLabel=F8FAFC&sideLabels=94A3B8&dates=64748B" alt="Sourav's contribution streak" />
+
+<br /><br />
+
+**If it is repetitive, there is probably a system waiting to be built.**
+
+[Visit my portfolio →](https://soradev.vercel.app/)
 
 </div>
