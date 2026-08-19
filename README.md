@@ -97,10 +97,7 @@ A multimodal storytelling experience that pairs BLIP image understanding with Ge
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/SouravLenka/InteliCredit">InteliCredit</a> ·
-  <a href="https://github.com/SouravLenka">see all projects</a>
-</p>
+[InteliCredit ↗](https://github.com/SouravLenka/InteliCredit) · [See all projects ↗](https://github.com/SouravLenka)
 
 ## ◈ Field notes
 
@@ -112,8 +109,6 @@ A multimodal storytelling experience that pairs BLIP image understanding with Ge
 
 ## ◈ The toolbox
 
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=60A5FA)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=2DD4BF)
 ![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=white)
@@ -124,25 +119,12 @@ A multimodal storytelling experience that pairs BLIP image understanding with Ge
 ![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FACC15)
 ![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F97316)
 
-</div>
-
 ## ◈ Now
 
 <code>[ learning ]</code> automation engineering · APIs · DevOps · system design  
 <code>[ building ]</code> AI that connects to real workflows  
 <code>[ looking for ]</code> opportunities in **AI & Automation Engineering**
 
-<div align="center">
-
-<br />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SouravLenka&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=94A3B8&icon_color=38BDF8&title_color=F8FAFC" alt="Sourav's GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=SouravLenka&theme=transparent&hide_border=true&ring=38BDF8&fire=60A5FA&currStreakLabel=F8FAFC&sideLabels=94A3B8&dates=64748B" alt="Sourav's contribution streak" />
-
-<br /><br />
-
 **If it is repetitive, there is probably a system waiting to be built.**
 
 [Visit my portfolio →](https://soradev.vercel.app/)
-
-</div>
