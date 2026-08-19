@@ -1,18 +1,30 @@
+<!-- Profile README for Sourav Lenka -->
+
+<div align="center">
+
 # Sourav Lenka
 
-### AI & Automation Engineer in the making
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=I+turn+repetitive+work+into+reliable+systems.;AI+%2B+Automation+Engineer+in+the+making.;Build+the+workflow.+Then+make+it+smarter." alt="AI and Automation Engineer" />
 
-[Portfolio ↗](https://soradev.vercel.app/) · [GitHub ↗](https://github.com/SouravLenka)
+<br />
+
+[![Portfolio](https://img.shields.io/badge/portfolio-soradev.vercel.app-0F172A?style=flat-square&logo=vercel&logoColor=white)](https://soradev.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-@SouravLenka-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/SouravLenka)
+![Focus](https://img.shields.io/badge/focus-AI_%2B_Automation-0EA5E9?style=flat-square)
+
+</div>
+
+---
 
 > **The idea is simple:** if a task repeats, it deserves a better system.
-
-I’m a final-year Computer Science student building at the intersection of AI and automation—from voice assistants and workflow automations to document intelligence and decision-support platforms.
+>
+> I’m a final-year Computer Science student building at the intersection of **AI and automation**—from voice assistants and workflow automations to RAG systems, document intelligence, and decision-support platforms.
 
 ## ◈ What I’m building toward
 
 <pre>manual work  ──►  automated workflow  ──►  AI-assisted decision  ──►  useful outcome</pre>
 
-I’m interested in AI that does more than give an answer. The systems I want to build fit into real workflows, retrieve trusted context, and take work off someone’s plate.
+I’m not interested in AI for the demo alone. I want to build systems that plug into real work, retrieve trusted context, make the right next step easier, and leave people with less busywork.
 
 ## ◈ Featured systems
 
@@ -45,7 +57,7 @@ A RAG assistant designed to retrieve relevant knowledge from documents, so findi
 ### [EcoAssist ↗](https://github.com/SouravLenka/ecoassist)
 **Sustainability knowledge, made usable.**
 
-A responsible-AI RAG assistant that grounds answers in sustainability policies and gives users source context.
+A responsible-AI RAG assistant that grounds answers in sustainability policies and gives users the source context.
 
 <code>Streamlit</code> <code>FAISS</code> <code>FLAN-T5</code> <code>LangChain</code>
 
@@ -85,7 +97,10 @@ A multimodal storytelling experience that pairs BLIP image understanding with Ge
 </tr>
 </table>
 
-Also building [InteliCredit ↗](https://github.com/SouravLenka/InteliCredit), an enterprise-focused corporate credit-appraisal platform for the Indian market.
+<p align="center">
+  <a href="https://github.com/SouravLenka/InteliCredit">InteliCredit</a> ·
+  <a href="https://github.com/SouravLenka">see all projects</a>
+</p>
 
 ## ◈ Field notes
 
@@ -97,7 +112,19 @@ Also building [InteliCredit ↗](https://github.com/SouravLenka/InteliCredit), a
 
 ## ◈ The toolbox
 
-<code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>RAG</code> <code>Vector Databases</code> <code>APIs</code> <code>n8n</code> <code>Next.js</code> <code>React</code> <code>Linux</code> <code>Git</code> <code>Firebase</code>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=60A5FA)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=2DD4BF)
+![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0F172A?style=for-the-badge&logo=huggingface&logoColor=FACC15)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8)
+![n8n](https://img.shields.io/badge/n8n-0F172A?style=for-the-badge&logo=n8n&logoColor=F97316)
+![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FACC15)
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F97316)
+
+</div>
 
 ## ◈ Now
 
@@ -105,8 +132,17 @@ Also building [InteliCredit ↗](https://github.com/SouravLenka/InteliCredit), a
 <code>[ building ]</code> AI that connects to real workflows  
 <code>[ looking for ]</code> opportunities in **AI & Automation Engineering**
 
----
+<div align="center">
+
+<br />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SouravLenka&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=94A3B8&icon_color=38BDF8&title_color=F8FAFC" alt="Sourav's GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=SouravLenka&theme=transparent&hide_border=true&ring=38BDF8&fire=60A5FA&currStreakLabel=F8FAFC&sideLabels=94A3B8&dates=64748B" alt="Sourav's contribution streak" />
+
+<br /><br />
 
 **If it is repetitive, there is probably a system waiting to be built.**
 
 [Visit my portfolio →](https://soradev.vercel.app/)
+
+</div>
