@@ -1,73 +1,112 @@
-# Hi, I’m Sourav Lenka
+# Sourav Lenka
 
-Final-year Computer Science student focused on AI and automation.
+### AI & Automation Engineer in the making
 
-I build systems that reduce repetitive work: workflow automations, document-aware assistants, and AI tools that help people make decisions or get work done.
+[Portfolio ↗](https://soradev.vercel.app/) · [GitHub ↗](https://github.com/SouravLenka)
 
-[Portfolio](https://soradev.vercel.app/) · [GitHub](https://github.com/SouravLenka)
+> **The idea is simple:** if a task repeats, it deserves a better system.
 
-## About
+I’m a final-year Computer Science student building at the intersection of AI and automation—from voice assistants and workflow automations to document intelligence and decision-support platforms.
 
-I got interested in automation because I dislike doing the same task twice. That grew into an interest in applied AI: not AI as a novelty, but AI that fits into a workflow, uses reliable context, and actually saves someone time.
+## ◈ What I’m building toward
 
-Right now, I’m working toward AI & Automation Engineering roles and building stronger skills in APIs, DevOps, system design, and production-minded AI applications.
+<pre>manual work  ──►  automated workflow  ──►  AI-assisted decision  ──►  useful outcome</pre>
 
-## Projects
+I’m interested in AI that does more than give an answer. The systems I want to build fit into real workflows, retrieve trusted context, and take work off someone’s plate.
 
-### [Jarvis](https://github.com/SouravLenka/jarivs)
+## ◈ Featured systems
 
-A desktop AI assistant that takes voice commands, calls APIs, and executes tasks. The goal was simple: make everyday computer actions less manual.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Built with:** Python, voice commands, APIs, automation
+### [Jarvis ↗](https://github.com/SouravLenka/jarivs)
+**Your desktop, but with an operator.**
 
-### [MindForge](https://github.com/SouravLenka/MindForge)
+A voice-driven desktop assistant that listens, calls APIs, and executes tasks—built around the goal of removing small daily friction.
 
-A RAG-based assistant that retrieves relevant answers from documents, so users do not have to dig through files themselves.
+<code>Python</code> <code>Voice Commands</code> <code>APIs</code> <code>Automation</code>
 
-**Built with:** Python, RAG, vector search
+</td>
+<td width="50%" valign="top">
 
-### [EcoAssist](https://github.com/SouravLenka/ecoassist)
+### [MindForge ↗](https://github.com/SouravLenka/MindForge)
+**Answers from the docs, not guesses.**
 
-A sustainability assistant built during the IBM AI for Sustainability Virtual Internship. It uses RAG to answer questions from policy and awareness documents, with source-backed context.
+A RAG assistant designed to retrieve relevant knowledge from documents, so finding an answer does not mean digging through files.
 
-**Built with:** Python, Streamlit, FAISS, FLAN-T5, LangChain
+<code>Python</code> <code>RAG</code> <code>Vector Search</code>
 
-### [AI Resume Parser](https://github.com/SouravLenka/ai-resume-parser)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A vision-language OCR pipeline that reads scanned resumes and converts them into structured, ATS-ready JSON.
+### [EcoAssist ↗](https://github.com/SouravLenka/ecoassist)
+**Sustainability knowledge, made usable.**
 
-**Built with:** Python, olmOCR-2, PyTorch, NLP
+A responsible-AI RAG assistant that grounds answers in sustainability policies and gives users source context.
 
-### [AI StoryTeller](https://github.com/SouravLenka/AI_StoryTeller)
+<code>Streamlit</code> <code>FAISS</code> <code>FLAN-T5</code> <code>LangChain</code>
 
-An image-to-story application that uses BLIP to understand an image and Gemini to generate a story based on the user’s chosen style and mood.
+</td>
+<td width="50%" valign="top">
 
-**Built with:** FastAPI, BLIP, Gemini
+### [AI Resume Parser ↗](https://github.com/SouravLenka/ai-resume-parser)
+**Scanned resumes → structured data.**
 
-### [CREDASYS](https://github.com/SouravLenka/CREDASYS)
+A vision-language OCR pipeline that reads resume images and converts them into ATS-ready JSON.
 
-An AI-powered corporate credit-risk platform with document ingestion, company research, explainable Five-Cs scoring, and credit-appraisal report generation.
+<code>olmOCR-2</code> <code>PyTorch</code> <code>NLP</code>
 
-**Built with:** FastAPI, Next.js, ChromaDB, Groq, Firebase
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### [InteliCredit](https://github.com/SouravLenka/InteliCredit)
+### [CREDASYS ↗](https://github.com/SouravLenka/CREDASYS)
+**Credit decisions with an evidence trail.**
 
-A corporate credit-appraisal platform for the Indian market, with document analysis, financial-risk intelligence, and explainable AI features.
+An end-to-end corporate credit-risk platform: document ingestion, research, explainable Five-Cs scoring, and CAM report generation.
 
-**Built with:** FastAPI, Next.js, Gemini, Scikit-learn
+<code>FastAPI</code> <code>Next.js</code> <code>ChromaDB</code> <code>Groq</code>
 
-## Experience
+</td>
+<td width="50%" valign="top">
 
-- **NSPCL, Rourkela:** Worked with the DDCMIS fire-safety monitoring system and saw how automation functions in an industrial setting.
-- **IBM AI for Sustainability Virtual Internship:** Built EcoAssist, a sustainability-focused RAG assistant.
-- **National hackathon with IIT Hyderabad and Vivriti Capital:** Built an AI-powered credit-risk tool around a real business problem.
+### [AI StoryTeller ↗](https://github.com/SouravLenka/AI_StoryTeller)
+**Images in. Narratives out.**
 
-## Technologies I work with
+A multimodal storytelling experience that pairs BLIP image understanding with Gemini-powered creative control.
 
-Python · FastAPI · LangChain · RAG · Vector databases · APIs · n8n · Next.js · React · Linux · Git · Firebase
+<code>FastAPI</code> <code>BLIP</code> <code>Gemini</code>
 
-## Currently
+</td>
+</tr>
+</table>
 
-- Building AI systems that connect to real workflows
-- Learning more about automation engineering, DevOps, APIs, and system design
-- Looking for opportunities in **AI & Automation Engineering**
+Also building [InteliCredit ↗](https://github.com/SouravLenka/InteliCredit), an enterprise-focused corporate credit-appraisal platform for the Indian market.
+
+## ◈ Field notes
+
+| Where | What it taught me |
+| :-- | :-- |
+| **NSPCL, Rourkela** | Working with the DDCMIS fire-safety monitoring system showed me automation in an industrial setting—not just on a laptop. |
+| **IBM AI for Sustainability** | Built EcoAssist and learned that responsible AI is about grounded, useful answers. |
+| **National hackathon · IIT Hyderabad × Vivriti Capital** | Built an AI-powered credit-risk tool around a real business challenge. |
+
+## ◈ The toolbox
+
+<code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>RAG</code> <code>Vector Databases</code> <code>APIs</code> <code>n8n</code> <code>Next.js</code> <code>React</code> <code>Linux</code> <code>Git</code> <code>Firebase</code>
+
+## ◈ Now
+
+<code>[ learning ]</code> automation engineering · APIs · DevOps · system design  
+<code>[ building ]</code> AI that connects to real workflows  
+<code>[ looking for ]</code> opportunities in **AI & Automation Engineering**
+
+---
+
+**If it is repetitive, there is probably a system waiting to be built.**
+
+[Visit my portfolio →](https://soradev.vercel.app/)
