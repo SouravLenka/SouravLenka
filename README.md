@@ -1,12 +1,12 @@
-<!-- Profile README for SouravLenka -->
+<!-- Profile README for Sourav Lenka -->
 
 <div align="center">
 
-# Hi, I'm Sourav 👋
+# Hi, I'm Sourav Lenka 👋
 
-### DevOps · Automation · AI Systems
+### Final-year Computer Science student · AI & Automation Engineer
 
-I build practical systems that simplify workflows, strengthen infrastructure, and turn ideas into reliable tools.
+I build AI systems that do more than answer questions—they fit into real workflows and take repetitive work off people’s plates.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-soradev.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://soradev.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/SouravLenka?style=for-the-badge&label=Follow&color=2563EB)](https://github.com/SouravLenka)
@@ -15,50 +15,54 @@ I build practical systems that simplify workflows, strengthen infrastructure, an
 
 ---
 
-## About me
+## Why AI + automation?
 
-- 🛠️ Building automation tools and utilities with **Python**
-- 🐧 Learning deeply about **Linux, DevOps, and system design**
-- 🤖 Exploring applied AI: **LLMs, RAG pipelines, and workflow automation**
-- 🌱 Focused on scalable, useful solutions—not just experiments
-
-## Current focus
+I don’t like doing the same thing twice. That instinct led me to automation first—building n8n workflows and a desktop voice assistant—and then to applied AI. Today, I combine both to create useful systems: AI that can retrieve grounded answers, understand documents, make decisions, and move work forward.
 
 ```text
-DevOps fundamentals  →  automation systems  →  AI-powered workflows
+Discover the task  →  automate the repeatable parts  →  add AI where judgment helps
 ```
 
-- Designing reliable development and deployment workflows
-- Building practical AI integrations with APIs, LangChain, and vector search
-- Improving real-world skills in CI/CD, infrastructure, and system design
+## Selected work
 
-## Tech stack
+| Project | What I built | Stack |
+| :-- | :-- | :-- |
+| [**Jarvis**](https://github.com/SouravLenka/jarivs) | A desktop AI assistant that handles voice commands, calls APIs, and executes tasks. | Python · APIs · Automation |
+| [**MindForge**](https://github.com/SouravLenka/MindForge) | A RAG assistant that retrieves answers from documents instead of making users search through them. | Python · RAG · Vector Search |
+| [**EcoAssist**](https://github.com/SouravLenka/ecoassist) | A sustainability-focused RAG assistant built during an IBM AI for Sustainability virtual internship. | Streamlit · FAISS · FLAN-T5 · LangChain |
+| [**AI Resume Parser**](https://github.com/SouravLenka/ai-resume-parser) | A vision-language OCR pipeline that turns scanned resumes into structured, ATS-ready JSON. | olmOCR-2 · PyTorch · NLP |
+| [**AI StoryTeller**](https://github.com/SouravLenka/AI_StoryTeller) | An image-to-story app that combines BLIP captioning with Gemini-controlled storytelling. | FastAPI · BLIP · Gemini |
+| [**CREDASYS**](https://github.com/SouravLenka/CREDASYS) | An AI-powered corporate credit-risk platform with document ingestion, research, explainable Five-Cs scoring, and CAM reports. | Next.js · FastAPI · ChromaDB · Groq |
+| [**InteliCredit**](https://github.com/SouravLenka/InteliCredit) | An enterprise-oriented credit appraisal platform for Indian corporate lending, with explainable AI, document analysis, and risk intelligence. | FastAPI · Next.js · Gemini · Scikit-learn |
+
+## Experience that shaped my approach
+
+- **NSPCL, Rourkela** — Worked with the DDCMIS fire-safety monitoring system, seeing how automation operates in an industrial environment.
+- **IBM AI for Sustainability Virtual Internship** — Built EcoAssist, a responsible-AI assistant for making sustainability policies more accessible and actionable.
+- **National hackathon with IIT Hyderabad & Vivriti Capital** — Built an AI-powered credit-risk tool for a real business problem.
+
+## Toolkit
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-059669?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-1F2937?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-1F2937?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 </div>
 
-## What I work with
+## Currently focused on
 
-| Area | Tools & technologies |
-| :-- | :-- |
-| **Automation** | Python, APIs, n8n, scripting |
-| **DevOps & systems** | Linux, Bash, Git, GitHub, CI/CD fundamentals |
-| **AI systems** | LLM integration, RAG pipelines, LangChain, ChromaDB |
-| **Web development** | React, Tailwind CSS, PHP, Firebase |
-| **Data** | MySQL, NoSQL basics, vector databases |
+- Building AI systems that connect to real business workflows
+- Deepening my skills in automation engineering, APIs, DevOps, and system design
+- Looking for opportunities in **AI & Automation Engineering**
 
 ## GitHub activity
 
@@ -73,7 +77,7 @@ DevOps fundamentals  →  automation systems  →  AI-powered workflows
 
 <div align="center">
 
-### Let's build something useful.
+### Open to building useful things together.
 
 [![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://soradev.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-SouravLenka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SouravLenka)
