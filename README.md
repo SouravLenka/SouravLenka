@@ -10,7 +10,7 @@
   I build practical AI systems, automate repetitive workflows, and turn ideas into reliable software.
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-soradev.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://soradev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-soradev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://soradev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourav%20Lenka-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/souravlenkaaa)
 
 </div>
