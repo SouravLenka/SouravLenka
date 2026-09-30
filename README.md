@@ -42,54 +42,6 @@ I don't just want to build AI that can answer questions — I want to build syst
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 [MindForge](https://github.com/SouravLenka/MindForge)
-**AI-powered context-aware doubt resolution assistant**
-
-A full-stack RAG application designed to answer questions using relevant learning context rather than relying only on a general-purpose chatbot.
-
-`FastAPI` `React` `Vite` `Tailwind CSS` `LangChain` `RAG` `ChromaDB` `Groq Llama 3`
-
----
-
-### 💳 [InteliCredit](https://github.com/SouravLenka/InteliCredit)
-**AI-powered credit risk solution**
-
-A solution developed around a real-world credit-risk problem, exploring how AI and data-driven approaches can support financial decision-making.
-
-`Python` `AI/ML` `Data` `Risk Analysis`
-
----
-
-### 🌱 [EcoAssist](https://github.com/SouravLenka/ecoassist)
-**AI assistant for sustainability information**
-
-Built during the **IBM AI for Sustainability Virtual Internship** to make sustainability-related information easier to understand and act upon.
-
-`AI` `Python` `Sustainability`
-
----
-
-### ✋ [ISL Gesture Recognition](https://github.com/SouravLenka/ISL-Project)
-**Real-time Indian Sign Language gesture recognition**
-
-A computer-vision and machine-learning project that extracts hand landmarks and classifies ISL gestures in real time through a Streamlit interface.
-
-`Python` `OpenCV` `MediaPipe` `Scikit-learn` `Random Forest` `Streamlit`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://isldetection.streamlit.app/)
-
----
-
-### 🎮 [Astral Rift](https://github.com/SouravLenka/Astral-Rift)
-**An experimental game development project**
-
-A game project exploring interactive systems, gameplay development, visual design, and software engineering outside my usual AI-focused work.
-
-`Game Development` `JavaScript` `Interactive Systems`
-
----
 
 ## 🛠️ Tech Stack
 
